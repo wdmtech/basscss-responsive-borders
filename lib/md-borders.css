@@ -1,0 +1,33 @@
+@media (--breakpoint-md) {
+
+    .md-b {
+        border-style: solid;
+        border-width: var(--border-width);
+        border-color: var(--border-color);
+    }
+
+    .md-bt {
+        border-top-style: solid;
+        border-top-width: var(--border-width);
+        border-top-color: var(--border-color);
+    }
+
+    .md-br {
+        border-right-style: solid;
+        border-right-width: var(--border-width);
+        border-right-color: var(--border-color);
+    }
+
+    .md-bb {
+        border-bottom-style: solid;
+        border-bottom-width: var(--border-width);
+        border-bottom-color: var(--border-color);
+    }
+
+    .md-bl {
+        border-left-style: solid;
+        border-left-width: var(--border-width);
+        border-left-color: var(--border-color);
+    }
+
+}
