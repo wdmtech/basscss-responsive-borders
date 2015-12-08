@@ -3,7 +3,7 @@ Responsive border styles module for Basscss
 
 ## Borders
 
-Add breakpoint-coinditional borders with these border utilities.
+Add breakpoint-conditional borders with these border utilities.
 
 ```html
 <div class="p1 m1 sm-bt">.border</div>
