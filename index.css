@@ -1,9 +1,5 @@
 /* Basscss Responsive Borders */
 
-@import "./lib/lg-borders";
-@import "./lib/md-borders";
 @import "./lib/sm-borders";
-
-@custom-media --breakpoint-sm (min-width: 40em);
-@custom-media --breakpoint-md (min-width: 52em);
-@custom-media --breakpoint-lg (min-width: 64em);
+@import "./lib/md-borders";
+@import "./lib/lg-borders";
