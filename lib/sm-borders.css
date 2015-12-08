@@ -1,4 +1,4 @@
-@media (--breakpoint-md) {
+@media (--breakpoint-sm) {
 
     .sm-b {
         border-style: solid;
