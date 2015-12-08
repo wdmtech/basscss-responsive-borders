@@ -1,6 +1,6 @@
 {
   "name": "basscss-responsive-borders",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Responsive border styles module for Basscss",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,11 @@
     "url": "git+https://github.com/wdmtech/basscss-responsive-borders.git"
   },
   "keywords": [
-    "Css",
+    "CSS",
     "Basscss",
     "OOCSS"
   ],
-  "author": "Will Murray",
+  "author": "Will Murray <willdavidmurray@gmail.com> (http://github.com/wdmtech)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wdmtech/basscss-responsive-borders/issues"
