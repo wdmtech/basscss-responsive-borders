@@ -1,5 +1,5 @@
 # basscss-responsive-borders
-Responsive border styles module for Basscss
+Responsive border styles module for [Basscss](basscss.com)
 
 ## Borders
 
